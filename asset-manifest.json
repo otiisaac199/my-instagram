@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-instagram/static/css/main.3aef70aa.css",
+    "main.js": "/my-instagram/static/js/main.41d820cc.js",
+    "static/media/profileIcon.svg": "/my-instagram/static/media/profileIcon.405589207fd4230b6379b698159cb826.svg",
+    "index.html": "/my-instagram/index.html",
+    "main.3aef70aa.css.map": "/my-instagram/static/css/main.3aef70aa.css.map",
+    "main.41d820cc.js.map": "/my-instagram/static/js/main.41d820cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aef70aa.css",
+    "static/js/main.41d820cc.js"
+  ]
+}
